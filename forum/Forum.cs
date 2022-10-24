@@ -1,0 +1,5 @@
+namespace Projekt;
+
+class Forum{
+
+}
